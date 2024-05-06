@@ -1,4 +1,4 @@
-Install the Following
+Install the
 Python v3+
 
 after that use pip to install the ff.
